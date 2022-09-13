@@ -1,0 +1,5 @@
+/home/marcelle/repository/trybe-xp-exercicios/acelera_dot_net_c_sharp/S4-POO/Classe/Rocket/obj/Debug/net6.0/Rocket.csproj.AssemblyReference.cache
+/home/marcelle/repository/trybe-xp-exercicios/acelera_dot_net_c_sharp/S4-POO/Classe/Rocket/obj/Debug/net6.0/Rocket.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelle/repository/trybe-xp-exercicios/acelera_dot_net_c_sharp/S4-POO/Classe/Rocket/obj/Debug/net6.0/Rocket.AssemblyInfoInputs.cache
+/home/marcelle/repository/trybe-xp-exercicios/acelera_dot_net_c_sharp/S4-POO/Classe/Rocket/obj/Debug/net6.0/Rocket.AssemblyInfo.cs
+/home/marcelle/repository/trybe-xp-exercicios/acelera_dot_net_c_sharp/S4-POO/Classe/Rocket/obj/Debug/net6.0/Rocket.csproj.CoreCompileInputs.cache
